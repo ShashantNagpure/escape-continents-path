@@ -37,7 +37,7 @@ public class Path {
 
 		res += Cities.get(0).toString();
 		res += "\n";
-		res += "Distance travelled: " + getDistance() + "\n";
+		res += "Distance travelled: " + getDistance() + "KMS\n";
 		return res;
 
 	}
